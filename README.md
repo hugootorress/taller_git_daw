@@ -8,3 +8,9 @@ bla bla bla
 ble ble ble
 nuevos cambios
 Línea nueva
+
+**Paso 1** Ejecutamos el comando:
+```
+systemctlstatus
+```
+![](https://www.almeriadecosta.com/storage/media/almeria/portada.jpg)
